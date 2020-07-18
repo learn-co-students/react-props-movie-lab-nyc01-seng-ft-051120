@@ -47,4 +47,4 @@ MovieCard.defaultProps = {
 	IMDBRating: null,
 	genres: ['No Genre(s) Found'],
 	poster: 'default'
-};
+};d
